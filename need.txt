@@ -1,0 +1,9 @@
+Django - requirements.txt and Rest api setup
+
+
+React -> 
+    (npm install --save react-dropzone) - https://react-dropzone.js.org
+    (npm install axios)
+
+
+ANN Artifical Neveral network
