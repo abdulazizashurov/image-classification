@@ -109,7 +109,7 @@ export default class Classifier extends Component {
                        
 
                         {this.state.files.length > 0 && (
-                            <Button variant='info' className='mt-4' size='lg' onClick={this.sendImage}>Yubormoq</Button>
+                            <Button variant='info' className='mt-4 btn-block' size='lg' onClick={this.sendImage}>Yubormoq</Button>
                         )}
                         {this.state.isLoading && (
                             <Spinner animation="border" role="status">

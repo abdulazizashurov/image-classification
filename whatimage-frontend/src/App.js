@@ -1,11 +1,15 @@
 import './App.css';
 import Classifier from './components/Classifier/Classifier';
+import Footer from './components/Footer'
+import Header from './components/Header'
 
 function App() {
   return (
-    <div className="App">
+    <main>
+      <Header />
       <Classifier />
-    </div>
+      <Footer />
+    </main>
   );
 }
 

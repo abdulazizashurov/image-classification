@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  max-height:80vh;
+}
+main {
+  text-align: center;
+  min-height: 80vh;
 }
 
 .App-logo {
